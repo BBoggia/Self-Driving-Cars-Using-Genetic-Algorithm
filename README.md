@@ -1,2 +1,2 @@
-# Self-Driving-Cars-W-Genetic-Algorithm
+# Self-Driving-Cars-Using-Genetic-Algorithm
 This was the final team project for the first A.I. course I took as an undergraduate student. It is a simulation in which cars learn how to drive around any random track generated from perlin noise. It uses a neural network with a genetic algorithm as it's learning mechanism to train the cars over generation. Due to time constrains we were forced to cut corners on the genetic algorithm so it sometimes can drop successful genes and typically has diminishing returns past generation ~45. I was responsible for the neural network and genetic algorithm in my group. Due to the 
